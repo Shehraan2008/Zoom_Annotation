@@ -2,6 +2,10 @@
 Zoom Annotation by Shehraan Rathee 
 GitHub repo link: 
 Tools used: p5.js, ml5.js, Teachable Machine, Taysui Sketches(i used it for making all the images for the actions).
+
+Other trainig links 
+zoom_ann_1 = let imageModelURL = 'https://teachablemachine.withgoogle.com/models/_XyRKoJV-/';
+zoom_ann_Fin_1 = let imageModelURL = 'https://teachablemachine.withgoogle.com/models/aViRYGqOc/';
 */
 // Classifier Variable
 let classifier;
